@@ -7,8 +7,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=STRIPHYOG&icon=6&color=1)](https://visitcount.itsvg.in)
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=STRIPHYOG&theme=darkhub)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/triphy07/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/triphy_2.0/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachidananda-tripathy/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/i_am_triphy) 
